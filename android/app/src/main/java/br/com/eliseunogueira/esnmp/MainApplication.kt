@@ -1,4 +1,4 @@
-package com.esnmp
+package br.com.eliseunogueira.esnmp
 
 import android.app.Application
 import android.content.res.Configuration

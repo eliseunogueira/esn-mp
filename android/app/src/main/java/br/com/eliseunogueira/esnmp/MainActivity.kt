@@ -1,4 +1,4 @@
-package com.esnmp
+package br.com.eliseunogueira.esnmp
 
 import android.os.Build
 import android.os.Bundle

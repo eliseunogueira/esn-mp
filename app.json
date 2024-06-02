@@ -1,7 +1,17 @@
 {
   "expo": {
+    "android": {
+      "package": "br.com.eliseunogueira.esnmp"
+    },
+    "ios": {
+      "bundleIdentifier": "br.com.eliseunogueira.esnmp"
+    },
     "name": "esn-mp",
     "slug": "esn-mp",
-    "version": "1.0.0"
+    "userInterfaceStyle": "automatic",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "metro"
+    }
   }
 }

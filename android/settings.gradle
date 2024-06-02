@@ -1,4 +1,4 @@
-rootProject.name = 'esnmp'
+rootProject.name = 'esn-mp'
 
 dependencyResolutionManagement {
   versionCatalogs {
